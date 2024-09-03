@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lisbugodem.github.io/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/app/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/assets/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/css/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/includes/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/item/sitemap.html.gz
+Sitemap: https://lisbugodem.github.io/src/sitemap.html.gz
